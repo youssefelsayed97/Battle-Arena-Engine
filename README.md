@@ -56,7 +56,7 @@ Improve tournament bracket visualization
 Add user input mode (interactive gameplay)
 👨‍💻 Author
 
-Built by Youssef
+Built by Youssef Elsayed
 
 📄 License
 
